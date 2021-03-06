@@ -117,14 +117,14 @@ colors = scales::col_numeric(
       ) %>% as.character()
 ```
 
-![](garden_table.html){width=600, height=1000}
+
 
 
   5. Create a table using `gt` with data from your project or from the `garden_harvest` data if your project data aren't ready.
  
 ```{r}
 garden_harvest_gt<- gt(garden_harvest) %>% 
-  tab_header(title = md("**Dataset from Lisa's garden harvest**")) %>% 
+  tab_header(title = md("**Dataset from Lisa's Garden Harvest**")) %>% 
   tab_source_note("Source: https://raw.githubusercontent.com/llendway/scraping_etc/main/2020_harvest.csv")
 garden_harvest_gt
 ```
