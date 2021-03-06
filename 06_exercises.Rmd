@@ -70,8 +70,7 @@ Once your repository is created, you should always open your **project** rather 
 * When you are finished with ALL the exercises, uncomment the options at the top so your document looks nicer. Don't do it before then, or else you might miss some important warnings and messages.
 
 ## Your first `shiny` app 
-
-https://github.com/rayanhamid/weekly_exercises_6/blob/main/06_exercises.Rmd 
+https://github.com/rayanhamid/weekly_exercises_6/blob/main/06_exercises.Rmd
 https://rayanhamid.shinyapps.io/shiny_app_ex6_rayan/?_ga=2.10708660.122913039.1615067279-913114756.1615067279
 
 #credit: I worked with Mohamed Abdi on the excercises questions

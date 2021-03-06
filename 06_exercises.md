@@ -71,7 +71,7 @@ Once your repository is created, you should always open your **project** rather 
 ## Your first `shiny` app 
 
 https://github.com/rayanhamid/weekly_exercises_6/blob/main/06_exercises.Rmd 
-http://127.0.0.1:5442
+https://rayanhamid.shinyapps.io/shiny_app_ex6_rayan/?_ga=2.10708660.122913039.1615067279-913114756.1615067279
 
 #credit: I worked with Mohamed Abdi on the excercises questions
 
@@ -153,7 +153,7 @@ garden_harvest_gt
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ntgqkhbwgd .gt_table {
+#utlrmcwriu .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -178,7 +178,7 @@ garden_harvest_gt
   border-left-color: #D3D3D3;
 }
 
-#ntgqkhbwgd .gt_heading {
+#utlrmcwriu .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -190,7 +190,7 @@ garden_harvest_gt
   border-right-color: #D3D3D3;
 }
 
-#ntgqkhbwgd .gt_title {
+#utlrmcwriu .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -200,7 +200,7 @@ garden_harvest_gt
   border-bottom-width: 0;
 }
 
-#ntgqkhbwgd .gt_subtitle {
+#utlrmcwriu .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -210,13 +210,13 @@ garden_harvest_gt
   border-top-width: 0;
 }
 
-#ntgqkhbwgd .gt_bottom_border {
+#utlrmcwriu .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ntgqkhbwgd .gt_col_headings {
+#utlrmcwriu .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -231,7 +231,7 @@ garden_harvest_gt
   border-right-color: #D3D3D3;
 }
 
-#ntgqkhbwgd .gt_col_heading {
+#utlrmcwriu .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -251,7 +251,7 @@ garden_harvest_gt
   overflow-x: hidden;
 }
 
-#ntgqkhbwgd .gt_column_spanner_outer {
+#utlrmcwriu .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -263,15 +263,15 @@ garden_harvest_gt
   padding-right: 4px;
 }
 
-#ntgqkhbwgd .gt_column_spanner_outer:first-child {
+#utlrmcwriu .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ntgqkhbwgd .gt_column_spanner_outer:last-child {
+#utlrmcwriu .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ntgqkhbwgd .gt_column_spanner {
+#utlrmcwriu .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -283,7 +283,7 @@ garden_harvest_gt
   width: 100%;
 }
 
-#ntgqkhbwgd .gt_group_heading {
+#utlrmcwriu .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -305,7 +305,7 @@ garden_harvest_gt
   vertical-align: middle;
 }
 
-#ntgqkhbwgd .gt_empty_group_heading {
+#utlrmcwriu .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -320,15 +320,15 @@ garden_harvest_gt
   vertical-align: middle;
 }
 
-#ntgqkhbwgd .gt_from_md > :first-child {
+#utlrmcwriu .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ntgqkhbwgd .gt_from_md > :last-child {
+#utlrmcwriu .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ntgqkhbwgd .gt_row {
+#utlrmcwriu .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -347,7 +347,7 @@ garden_harvest_gt
   overflow-x: hidden;
 }
 
-#ntgqkhbwgd .gt_stub {
+#utlrmcwriu .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -359,7 +359,7 @@ garden_harvest_gt
   padding-left: 12px;
 }
 
-#ntgqkhbwgd .gt_summary_row {
+#utlrmcwriu .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -369,7 +369,7 @@ garden_harvest_gt
   padding-right: 5px;
 }
 
-#ntgqkhbwgd .gt_first_summary_row {
+#utlrmcwriu .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -379,7 +379,7 @@ garden_harvest_gt
   border-top-color: #D3D3D3;
 }
 
-#ntgqkhbwgd .gt_grand_summary_row {
+#utlrmcwriu .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -389,7 +389,7 @@ garden_harvest_gt
   padding-right: 5px;
 }
 
-#ntgqkhbwgd .gt_first_grand_summary_row {
+#utlrmcwriu .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -399,11 +399,11 @@ garden_harvest_gt
   border-top-color: #D3D3D3;
 }
 
-#ntgqkhbwgd .gt_striped {
+#utlrmcwriu .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ntgqkhbwgd .gt_table_body {
+#utlrmcwriu .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -412,7 +412,7 @@ garden_harvest_gt
   border-bottom-color: #D3D3D3;
 }
 
-#ntgqkhbwgd .gt_footnotes {
+#utlrmcwriu .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -426,13 +426,13 @@ garden_harvest_gt
   border-right-color: #D3D3D3;
 }
 
-#ntgqkhbwgd .gt_footnote {
+#utlrmcwriu .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ntgqkhbwgd .gt_sourcenotes {
+#utlrmcwriu .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -446,46 +446,46 @@ garden_harvest_gt
   border-right-color: #D3D3D3;
 }
 
-#ntgqkhbwgd .gt_sourcenote {
+#utlrmcwriu .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ntgqkhbwgd .gt_left {
+#utlrmcwriu .gt_left {
   text-align: left;
 }
 
-#ntgqkhbwgd .gt_center {
+#utlrmcwriu .gt_center {
   text-align: center;
 }
 
-#ntgqkhbwgd .gt_right {
+#utlrmcwriu .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ntgqkhbwgd .gt_font_normal {
+#utlrmcwriu .gt_font_normal {
   font-weight: normal;
 }
 
-#ntgqkhbwgd .gt_font_bold {
+#utlrmcwriu .gt_font_bold {
   font-weight: bold;
 }
 
-#ntgqkhbwgd .gt_font_italic {
+#utlrmcwriu .gt_font_italic {
   font-style: italic;
 }
 
-#ntgqkhbwgd .gt_super {
+#utlrmcwriu .gt_super {
   font-size: 65%;
 }
 
-#ntgqkhbwgd .gt_footnote_marks {
+#utlrmcwriu .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="ntgqkhbwgd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+<div id="utlrmcwriu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
   <thead class="gt_header">
     <tr>
       <th colspan="5" class="gt_heading gt_title gt_font_normal" style><strong>Dataset from Lisa's Garden Harvest</strong></th>
